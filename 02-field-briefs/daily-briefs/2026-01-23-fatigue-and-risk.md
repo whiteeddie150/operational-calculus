@@ -46,8 +46,11 @@ Brief resets work. Hydrate, stretch, or pause for one minute between
 tasks. Evidence shows short breaks improve attention and reduce error
 rates.
 
-Fatigue is predictable. Errors from fatigue are preventable. The control is
-awareness and small behavioral checks.
+Fatigue follows a known pattern, and recognizing that pattern is what makes
+it manageable. That is the same principle behind Gordon Graham's
+public-safety risk-management work: recognizable, recurring hazards can be
+controlled before they cause harm. The control here is awareness and small
+behavioral checks.
 
 Watch yourself. Watch each other. Do not let fatigue make decisions for
 you.

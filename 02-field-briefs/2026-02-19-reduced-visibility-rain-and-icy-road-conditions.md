@@ -47,6 +47,10 @@ If visibility drops below safe limits or road conditions deteriorate,
 reassess travel. Delaying or rerouting is a safety decision, not a failure
 to perform. Report hazardous conditions so others can adjust accordingly.
 
-Bottom line: these hazards are predictable and preventable. Slow down,
-increase spacing, use proper lighting, and prioritize arriving safely over
-arriving quickly. No task outweighs your safety.
+Bottom line: these hazards follow recognizable patterns, which means they
+can be managed before they turn into a crash. That is the same principle
+behind Gordon Graham's public-safety risk-management work on high-risk,
+low-frequency events: predictable categories of loss can be controlled
+ahead of time. Slow down, increase spacing, use proper lighting, and
+prioritize arriving safely over arriving quickly. No task outweighs your
+safety.
