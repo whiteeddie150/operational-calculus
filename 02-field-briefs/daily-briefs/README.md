@@ -2,29 +2,28 @@
 
 Extracted from the Gmail sent folder (white.eddie150@gmail.com → ejwe@pge.com).
 
-- **Total briefs:** 65
+- **Total briefs:** 62
 - **Date range:** 2026-01-23 to 2026-07-02
+
+Note: the fog/rain-ice weather handouts and the pattern-recognition annex, originally sent in this same window, live in [`02-field-briefs/`](../) directly (reference material, not routine rotating briefs) — see [`../README.md`](../README.md).
 
 ## Themes
 
 | Theme | Count |
 |---|---|
-| Human performance / cognitive (attention, drift, weak signals, decision-making) | 24 |
+| Human performance / cognitive (attention, drift, weak signals, decision-making) | 23 |
 | Physical hazards (wildlife, plants, environment) | 8 |
 | Vehicle / driving safety | 6 |
 | Medical / first aid | 4 |
 | Operational discipline (PPE, speaking up, control) | 8 |
 | Fatigue / recovery | 8 |
-| Weather / visibility | 2 |
-| Other (compilations, annexes) | 5 |
+| Other (compilations) | 5 |
 
 ## Index
 
 | Date | Topic | File |
 |---|---|---|
 | 2026-01-23 | Fatigue and Risk | [2026-01-23-fatigue-and-risk.md](2026-01-23-fatigue-and-risk.md) |
-| 2026-02-19 | Reduced Visibility and Fog Conditions Field Safety Handout | [2026-02-19-fog-and-reduced-visibility-handout.md](2026-02-19-fog-and-reduced-visibility-handout.md) |
-| 2026-02-19 | Reduced Visibility, Rain, and Icy Road Conditions | [2026-02-19-reduced-visibility-rain-and-icy-road-conditions.md](2026-02-19-reduced-visibility-rain-and-icy-road-conditions.md) |
 | 2026-02-24 | Complacency in Routine Tasks | [2026-02-24-complacency-in-routine-tasks.md](2026-02-24-complacency-in-routine-tasks.md) |
 | 2026-02-25 | Hand and Finger Safety | [2026-02-25-hand-and-finger-safety.md](2026-02-25-hand-and-finger-safety.md) |
 | 2026-02-26 | Line of Fire Awareness | [2026-02-26-line-of-fire-awareness.md](2026-02-26-line-of-fire-awareness.md) |
@@ -52,7 +51,6 @@ Extracted from the Gmail sent folder (white.eddie150@gmail.com → ejwe@pge.com)
 | 2026-04-20 | Speaking Up is a Safety Control | [2026-04-20-speaking-up-is-a-safety-control.md](2026-04-20-speaking-up-is-a-safety-control.md) |
 | 2026-04-21 | The Last 10% of the Job | [2026-04-21-the-last-10-percent-of-the-job.md](2026-04-21-the-last-10-percent-of-the-job.md) |
 | 2026-04-22 | Task Fixation | [2026-04-22-task-fixation.md](2026-04-22-task-fixation.md) |
-| 2026-04-24 | Instinct, Pattern Recognition, and Adaptive Response (annex) | [2026-04-24-instinct-and-pattern-recognition-annex.md](2026-04-24-instinct-and-pattern-recognition-annex.md) |
 | 2026-04-24 | Stay Flexible, Stay in Control | [2026-04-24-stay-flexible-stay-in-control.md](2026-04-24-stay-flexible-stay-in-control.md) |
 | 2026-04-27 | Plant Hazards – Bay Area Field Exposure | [2026-04-27-plant-hazards-bay-area.md](2026-04-27-plant-hazards-bay-area.md) |
 | 2026-04-28 | Ticks – Small Hazard, Real Risk | [2026-04-28-ticks-small-hazard-real-risk.md](2026-04-28-ticks-small-hazard-real-risk.md) |
