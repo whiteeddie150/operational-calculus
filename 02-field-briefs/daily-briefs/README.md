@@ -85,3 +85,5 @@ Note: the fog/rain-ice weather handouts and the pattern-recognition annex, origi
 | 2026-06-29 | Reset Before the Next Task | [2026-06-29-reset-before-the-next-task.md](2026-06-29-reset-before-the-next-task.md) |
 | 2026-07-01 | The First Five Minutes | [2026-07-01-the-first-five-minutes.md](2026-07-01-the-first-five-minutes.md) |
 | 2026-07-02 | Stay Ahead of the Work | [2026-07-02-stay-ahead-of-the-work.md](2026-07-02-stay-ahead-of-the-work.md) |
+| 2026-07-04 | Scope Creep Through Vague Duty Language | [2026-07-04-scope-creep-through-vague-duty-language.md](2026-07-04-scope-creep-through-vague-duty-language.md) |
+| 2026-07-09 | Habituation to Warning Signals | [2026-07-09-habituation-to-warning-signals.md](2026-07-09-habituation-to-warning-signals.md) |
