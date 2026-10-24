@@ -1,0 +1,2 @@
+cd /d "C:\Users\tmjed\OneDrive\Documents\GitHub\operational-calculus"
+claude --print "Pull the latest changes from GitHub. Find the most recently added file in 02-field-briefs/daily-briefs/. Create a Gmail draft addressed to ejwe@pge.com containing that brief's full content, ready for review, but do not send it. Confirm the draft was created."

@@ -30,6 +30,10 @@ Full detail is in `00-Governance/DELIVERY_STRUCTURE.md`.
 
 Any concept drawn from a named researcher — including Weick, Klein, Dekker, Conklin, Graham, Boyd, or Kegan and Lahey — gets that person credited directly in the brief. This is a standing requirement, not an occasional flourish.
 
+## Formatting Rule
+
+Briefs must never use em dashes. This caused a real file corruption bug (an em dash saved into a brief file was misread by a viewer as garbled, truncated text). Use commas, periods, or separate sentences instead. Write in plain, direct sentences rather than relying on that punctuation mark.
+
 ## Content Guidance for Sensitive Material
 
 Some topics originate from the author's direct professional experience inside a specific current employer, including observed organizational and safety practice concerns.
